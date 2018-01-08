@@ -73,6 +73,7 @@ public class ReadDataTest {
 
             /* Proxy code end */
 
+
             /* Open connection */
             /* comment below line in case of Proxy */
             HttpURLConnection con = (HttpURLConnection) data.openConnection();
