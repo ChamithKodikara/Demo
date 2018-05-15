@@ -1,3 +1,4 @@
+
 2017-10-05 13:34:50.823  INFO 11980 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication on LAPTOP-D559LBE9 with PID 11980 (F:\Workspace\My_Workspace\Samples\Boot\demo\target\classes started by chamith in F:\Workspace\My_Workspace\Samples\Boot\demo)
 2017-10-05 13:34:50.831  INFO 11980 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
 2017-10-05 13:34:51.021  INFO 11980 --- [main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@5af97850: startup date [Thu Oct 05 13:34:50 IST 2017]; root of context hierarchy
